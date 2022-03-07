@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       Trivia!- This is my change
-      <Question name="David" />
+      <Question name="David V" />
     </div>
   );
 }
